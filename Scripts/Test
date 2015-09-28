@@ -1,0 +1,10 @@
+echo -----------------------------------------
+echo "(C) MIW"
+echo -----------------------------------------
+echo .
+cd /Users/AngelaS/git/spai1
+echo "============ mvn --version ======================================================="
+echo .
+mvn --version
+mvn clean test
+pause
